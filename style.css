@@ -1,0 +1,20 @@
+body{
+	font-family: 'Hanalei Fill', cursive;
+    line-height: 1.4;
+    text-align: center;
+}
+
+#identity{
+	color: #FF0048;
+	line-height: 100px;
+	font-family: 'Monoton', cursive;
+	text-align: center;
+	font-size: 70px;
+	border-style: dotted solid;
+	border-width: 150px;
+}
+
+.photos{
+	text-align: center;
+	
+}
